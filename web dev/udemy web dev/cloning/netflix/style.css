@@ -1,0 +1,19 @@
+body{
+   
+    margin:0;
+
+}
+
+p{
+    color:white;
+    margin:0;
+}
+
+.first-container{
+
+  background-image: url("images/1.jpg");
+  height:680px;
+  margin:0;
+   
+}
+

@@ -1,0 +1,46 @@
+
+/* --------------------------------tag selectors------------------- */
+
+h1{
+
+    color :green;
+    font-size: 40px;
+}
+
+img:hover{
+
+    background-color: yellow;
+}
+
+/* --------------------------------class selectors----------------------------- */
+
+.veg1{
+    background-color:blue;
+  
+  }
+
+.veg2{ 
+    background-color: red;
+} 
+
+.headclass{
+
+    color:brown;
+}
+
+.circular{
+
+    border-radius: 100%;
+}
+
+/* ----------------------------id selectors--------------- */
+
+#heading{
+
+    color:orange;
+}
+
+#heading2{
+
+    color:pink;
+}
